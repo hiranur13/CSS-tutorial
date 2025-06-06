@@ -1,0 +1,29 @@
+body{
+    background-image: url(res/arkaplan.jpg);
+    background-size: cover;/*arkaplan ekranı kaplar*/
+
+}
+header,footer{
+    background: #ffffff99;
+    padding: 20px 0;
+}
+#logo img{
+    width: 50px;
+}
+#main-menu a{
+    display: block;
+    color: #007a9c;
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+#social-menu a{
+    display: block;
+    padding: 0.5rem;
+}
+main{
+    margin: 20px 0;
+}
+.card{
+    background-color: #007a9c;
+    
+}
